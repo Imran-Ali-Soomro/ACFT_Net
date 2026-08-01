@@ -1,2 +1,2 @@
 # ACFT_Net
-The model checkpoints, and source code used to reproduce the experiments in this paper will be made available after acceptance.
+The source code files and model checkpoints supporting this study will be made publicly available at the project repository upon acceptance.
